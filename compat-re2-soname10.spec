@@ -5,7 +5,7 @@
 #
 Name     : compat-re2-soname10
 Version  : 2023.03.01
-Release  : 48
+Release  : 49
 URL      : https://github.com/google/re2/archive/2023-03-01/re2-2023.03.01.tar.gz
 Source0  : https://github.com/google/re2/archive/2023-03-01/re2-2023.03.01.tar.gz
 Summary  : RE2 is a fast, safe, thread-friendly regular expression engine.
